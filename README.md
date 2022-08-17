@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cnneinn
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning R Language
 - 📫 How to reach me just dm me
 
 <!---
